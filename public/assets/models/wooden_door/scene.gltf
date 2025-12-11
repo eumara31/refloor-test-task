@@ -1,0 +1,560 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 8842,
+      "max": [
+        0.19599999487400055,
+        1.437540054321289,
+        2.7320001125335693
+      ],
+      "min": [
+        0.09034000337123871,
+        -1.4391100406646729,
+        -2.8463199138641357
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 106104,
+      "componentType": 5126,
+      "count": 8842,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 8842,
+      "max": [
+        1.0,
+        1.0,
+        0.9683158993721008,
+        1.0
+      ],
+      "min": [
+        -0.6191131472587585,
+        -1.0,
+        -0.9681606292724609,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8842,
+      "max": [
+        1.098770022392273,
+        1.0325499773025513
+      ],
+      "min": [
+        -0.6264399886131287,
+        -0.7720999717712402
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 17055,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 212208,
+      "componentType": 5126,
+      "count": 18441,
+      "max": [
+        2.9430201053619385,
+        3.6608800888061523,
+        1.0671199560165405
+      ],
+      "min": [
+        -1.3831499814987183,
+        -4.189949989318848,
+        -0.1575700044631958
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 433500,
+      "componentType": 5126,
+      "count": 18441,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 141472,
+      "componentType": 5126,
+      "count": 18441,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 70736,
+      "componentType": 5126,
+      "count": 18441,
+      "max": [
+        0.9999399781227112,
+        0.3085300028324127
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 68220,
+      "componentType": 5125,
+      "count": 102414,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 654792,
+      "componentType": 5126,
+      "count": 8285,
+      "max": [
+        0.18483999371528625,
+        1.6170300245285034,
+        0.0729300007224083
+      ],
+      "min": [
+        -0.013539999723434448,
+        -1.6178900003433228,
+        -5.672019958496094
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 754212,
+      "componentType": 5126,
+      "count": 8285,
+      "max": [
+        0.9999978542327881,
+        0.9999977350234985,
+        0.9999998807907104
+      ],
+      "min": [
+        -0.9999979734420776,
+        -0.9999977350234985,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 436528,
+      "componentType": 5126,
+      "count": 8285,
+      "max": [
+        1.0,
+        0.6861541271209717,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999998807907104,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 218264,
+      "componentType": 5126,
+      "count": 8285,
+      "max": [
+        0.5420299768447876,
+        1.0539400577545166
+      ],
+      "min": [
+        0.1676200032234192,
+        -0.011389999650418758
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 477876,
+      "componentType": 5125,
+      "count": 12759,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Pavan Salam (https://sketchfab.com/pavansalam)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wooden-door-ea0815a578db412389bd57d945b1d6bf",
+      "title": "wooden door"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 528912,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 284544,
+      "byteOffset": 528912,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 853632,
+      "byteOffset": 813456,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 569088,
+      "byteOffset": 1667088,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2236176,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/wood_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/wood_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/wood_normal.png"
+    },
+    {
+      "uri": "textures/steel_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/steel_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.4357442796,
+            0.4357442796,
+            0.4357442796
+          ],
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "name": "wood",
+      "normalTexture": {
+        "index": 2
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 3
+          },
+          "glossinessFactor": 0.8535638965,
+          "specularFactor": [
+            0.4923480532,
+            0.4923480532,
+            0.4923480532
+          ]
+        }
+      },
+      "name": "steel",
+      "normalTexture": {
+        "index": 4
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "door_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "door_handle_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wooden_door_bar_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.38182857632637024,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        8.478297537947604e-17,
+        -0.38182857632637024,
+        0.0,
+        0.0,
+        0.38182857632637024,
+        8.478297537947604e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4,
+        6
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.14233,
+        3.05163,
+        0.04711000000000001,
+        1.0
+      ],
+      "name": "door"
+    },
+    {
+      "mesh": 0,
+      "name": "door_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.0,
+        0.08807000000000002,
+        0.0,
+        0.0,
+        -0.0,
+        -0.0,
+        0.08807000000000002,
+        0.0,
+        0.08807000000000002,
+        -0.0,
+        0.0,
+        0.0,
+        0.06719000000000003,
+        1.8418599999999998,
+        0.35599000000000003,
+        1.0
+      ],
+      "name": "door_handle"
+    },
+    {
+      "mesh": 1,
+      "name": "door_handle_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.99225,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.04191000000000001,
+        3.05292,
+        2.8726799999999995,
+        1.0
+      ],
+      "name": "wooden_door_bar"
+    },
+    {
+      "mesh": 2,
+      "name": "wooden_door_bar_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    }
+  ]
+}
